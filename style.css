@@ -69,6 +69,7 @@ h1{
     font-weight: bold;
 }
 #for-massege{
+    border-radius: 10px;
     width:33%;
     text-align: center;
     padding:2%;
